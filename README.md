@@ -1,5 +1,4 @@
-<a href="https://docs.google.com/document/d/1gOUEPllR2wudxXSyIwTfMcy7XTBUyL31/edit?usp=sharing&ouid=109821115421257364576&rtpof=true&sd=true?usp=sharing&ouid=109821115421257364576&rtpof=true&sd=true" target="_blank">
-   <a href="https://docs.google.com/document/d/1gOUEPllR2wudxXSyIwTfMcy7XTBUyL31/edit?usp=sharing&ouid=109821115421257364576&rtpof=true&sd=true?usp=sharing&ouid=109821115421257364576&rtpof=true&sd=true" target="_blank">
+<a href="https://drive.google.com/file/d/1rqB9X10fMU18F2w3Mkk-b-PwO_SuZHbV/view" target="_blank">
 <img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70" ></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi+I+am+Zakaria+Ahmed+Mostafa;%F0%9F%92%B0+I%E2%80%99m+currently+working+as+a+Java+developer+@+free-lancer;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Java+Spring+projects;%F0%9F%93%AB+reach+me%3A+send+me+email+on+zakaria.ahmed.mostafa%40gmail.com;%E2%9A%A1+Fun+fact%3A+Keep+coding)](https://git.io/typing-svg)
