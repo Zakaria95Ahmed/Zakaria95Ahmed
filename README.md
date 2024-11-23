@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi+I+am+Zakaria+Ahmed+Mostafa;%F0%9F%92%B0+I%E2%80%99m+currently+working+as+a+Java+developer+@+free-lancer;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Java+Spring+projects;%F0%9F%93%AB+reach+me%3A+send+me+email+on+zakaria.ahmed.mostafa%40gmail.com;%E2%9A%A1+Fun+fact%3A+Keep+coding)](https://git.io/typing-svg)
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=abdallahalseddek&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahalseddek" />
+   <img src="https://komarev.com/ghpvc/?username=Zakaria95Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Zakaria95Ahmed" />
    <a href="https://wakatime.com/@018bd29b-1c36-4262-bf7b-6a18cc8ac8cc"><img src="https://wakatime.com/badge/user/018bd29b-1c36-4262-bf7b-6a18cc8ac8cc.svg"/></a> <br>
   <a href="mailto:zakaria.ahmed.mostafa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/zakaria.ahmed.mostafa@gmail.com-A23566?style=flat-square&logo=gmail"></a>
     <a href="https://www.linkedin.com/in/zakaria-ahmed-a5466b172"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
