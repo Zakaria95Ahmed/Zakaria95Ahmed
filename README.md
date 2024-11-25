@@ -22,7 +22,7 @@
 - [Spring In Action, 5th edition](https://www.manning.com/books/spring-in-action-fifth-edition)
 - [Modern Java In Action.](https://www.manning.com/books/modern-java-in-action)
 - [Practical Web DataBase Design.](https://github.com/abdallahalseddek/Practical-Web-Database-Design)
-- [Object Oriented Analysis And Design textbook, 3rd edition.](https://github.com/Zakaria95Ahmed/Vacation-Tracking-System-main)
+- [Object Oriented Analysis And Design textbook, 3rd edition.](https://github.com/Zakaria95Ahmed/Vacation-Tracking-System)
 
 <h3 align="left">Languages and Tools:</h3>
 
